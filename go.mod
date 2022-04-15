@@ -15,3 +15,5 @@ require (
 	github.com/timshannon/bolthold v0.0.0-20191212204344-59576e1e7b0b // indirect
 	go.etcd.io/bbolt v1.3.3 // indirect
 )
+
+replace github.com/privacybydesign/irmago => ../irmago
